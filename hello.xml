@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 <message>Conflicting content in master branch</message>
+=======
+<message>Hello from GitWork branch</message>
+<update>Edited in GitWork branch</update>
+>>>>>>> GitWork
